@@ -34,7 +34,7 @@ One of the following predefined map projections can be used:
 - [How to: Specify a Map Projection](https://docs.devexpress.com/WPF/113972/controls-and-libraries/map-control/examples/vector-data/customize-data-appearance/how-to-specify-a-map-projection)
 - [Geographical Projections](https://docs.devexpress.com/WPF/14750/controls-and-libraries/map-control/coordinate-systems/geographical-projections)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-map-specify-map-projection&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-map-specify-map-projection&~~~was_helpful=no)
 
